@@ -22,6 +22,7 @@ THEN I find a concise, descriptive title
 - added semantic HTML tags (e.g. header, section, article, footer)
 - added comments to both HTML and CSS
 - added alt text to images
+- re-organized heading attributes so that they are in descending order
 - re-organized and consolidated div tags in CSS
 - re-organized links in both HTML and CSS files
 
