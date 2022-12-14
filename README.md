@@ -28,6 +28,6 @@ THEN I find a concise, descriptive title
 ## Screenshot
 ![ScreenShot](https://user-images.githubusercontent.com/48407721/207529131-b13b4936-c40c-42fc-be27-70b33d93e2bb.PNG)
 ![ScreenShot](https://user-images.githubusercontent.com/48407721/207529137-515b1ba7-ca64-4811-8ad7-3cc87b54d023.PNG)
-![ScreenShot](https://user-images.githubusercontent.com/48407721/207529127-9cb6797e-8b02-47fd-b604-d28d24639e2b.PNG)
+![ScreenShot](https://user-images.githubusercontent.com/48407721/207530190-17b9501e-15fe-4949-9618-ac3932adff23.PNG)
 
 ## Deployment link
