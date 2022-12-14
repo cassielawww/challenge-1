@@ -1,2 +1,1 @@
-# challenge-1
-Code refactoring and SEO Optimization for Horiseon
+# Code Refactor Starter Code
